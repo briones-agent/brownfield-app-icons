@@ -119,5 +119,10 @@ Icons live in [`icons/`](icons/). A combined [`contact-sheet.png`](contact-sheet
 - [`wordpress-ios.mp4`](recordings/wordpress-ios.mp4)
 - [`yattee.mp4`](recordings/yattee.mp4)
 
+
+## Montage
+
+[`apps-montage.mp4`](apps-montage.mp4) — all 85 app recordings playing simultaneously in a 17×5 grid of phone screens (12s loop), for a single presentation slide.
+
 ---
 *Each icon belongs to its respective project and is used here for reference/presentation. Icons for the same app on two platforms (e.g. `bitwarden-android` / `bitwarden-ios`) share the brand mark.*
