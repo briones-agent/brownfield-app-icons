@@ -123,6 +123,7 @@ Icons live in [`icons/`](icons/). A combined [`contact-sheet.png`](contact-sheet
 ## Montage
 
 [`apps-montage.mp4`](apps-montage.mp4) — all 85 app recordings playing simultaneously in a 17×5 grid of phone screens (12s loop), for a single presentation slide.
+- [`apps-montage-by-platform.mp4`](apps-montage-by-platform.mp4) — same montage grouped into an **iOS (33)** cluster and an **Android (52)** cluster, side by side with labels.
 
 ---
 *Each icon belongs to its respective project and is used here for reference/presentation. Icons for the same app on two platforms (e.g. `bitwarden-android` / `bitwarden-ios`) share the brand mark.*
